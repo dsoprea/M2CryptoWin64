@@ -1,0 +1,5 @@
+include M2Crypto/ssleay32.dll
+include M2Crypto/libeay32.dll
+include M2Crypto/__m2crypto.py
+include M2Crypto/__m2crypto.pyc
+include M2Crypto/__m2crypto.pyd

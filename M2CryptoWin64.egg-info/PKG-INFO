@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: M2CryptoWin64
+Version: 0.21.1
+Summary: M2Crypto for Windows
+Home-page: UNKNOWN
+Author: Dustin Oprea
+Author-email: myselfasunder@gmail.com
+License: GPL 2
+Description: UNKNOWN
+Keywords: openssl ssl m2crypto
+Platform: UNKNOWN
