@@ -1,15 +1,8 @@
 import setuptools
 import os
 
-import M2Crypto
-
-app_path = os.path.dirname(M2Crypto.__file__)
-
-with open(os.path.join(app_path, 'resources', 'README.rst')) as f:
-      long_description = f.read()
-
-with open(os.path.join(app_path, 'resources', 'requirements.txt')) as f:
-      install_requires = list(map(lambda s: s.strip(), f.readlines()))
+long_description = ""
+install_requires = []
 
 setuptools.setup(
       name='M2CryptoWin64',

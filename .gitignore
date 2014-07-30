@@ -1,0 +1,4 @@
+/build/
+/dist/
+*.pyc
+/M2CryptoWin64.egg-info/
